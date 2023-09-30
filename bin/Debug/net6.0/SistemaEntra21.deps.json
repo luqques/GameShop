@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SistemaEntra21/1.0.0": {
+        "runtime": {
+          "SistemaEntra21.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaEntra21/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,30 @@
+C:\CSharp\SistemaEntra21\SistemaEntra21\bin\Debug\net6.0\SistemaEntra21.exe
+C:\CSharp\SistemaEntra21\SistemaEntra21\bin\Debug\net6.0\SistemaEntra21.deps.json
+C:\CSharp\SistemaEntra21\SistemaEntra21\bin\Debug\net6.0\SistemaEntra21.runtimeconfig.json
+C:\CSharp\SistemaEntra21\SistemaEntra21\bin\Debug\net6.0\SistemaEntra21.dll
+C:\CSharp\SistemaEntra21\SistemaEntra21\bin\Debug\net6.0\SistemaEntra21.pdb
+C:\CSharp\SistemaEntra21\SistemaEntra21\obj\Debug\net6.0\SistemaEntra21.csproj.AssemblyReference.cache
+C:\CSharp\SistemaEntra21\SistemaEntra21\obj\Debug\net6.0\SistemaEntra21.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\SistemaEntra21\SistemaEntra21\obj\Debug\net6.0\SistemaEntra21.AssemblyInfoInputs.cache
+C:\CSharp\SistemaEntra21\SistemaEntra21\obj\Debug\net6.0\SistemaEntra21.AssemblyInfo.cs
+C:\CSharp\SistemaEntra21\SistemaEntra21\obj\Debug\net6.0\SistemaEntra21.csproj.CoreCompileInputs.cache
+C:\CSharp\SistemaEntra21\SistemaEntra21\obj\Debug\net6.0\SistemaEntra21.dll
+C:\CSharp\SistemaEntra21\SistemaEntra21\obj\Debug\net6.0\refint\SistemaEntra21.dll
+C:\CSharp\SistemaEntra21\SistemaEntra21\obj\Debug\net6.0\SistemaEntra21.pdb
+C:\CSharp\SistemaEntra21\SistemaEntra21\obj\Debug\net6.0\SistemaEntra21.genruntimeconfig.cache
+C:\CSharp\SistemaEntra21\SistemaEntra21\obj\Debug\net6.0\ref\SistemaEntra21.dll
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\AtividadeGrupo\SistemaEntra21\SistemaEntra21\bin\Debug\net6.0\SistemaEntra21.exe
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\AtividadeGrupo\SistemaEntra21\SistemaEntra21\bin\Debug\net6.0\SistemaEntra21.deps.json
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\AtividadeGrupo\SistemaEntra21\SistemaEntra21\bin\Debug\net6.0\SistemaEntra21.runtimeconfig.json
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\AtividadeGrupo\SistemaEntra21\SistemaEntra21\bin\Debug\net6.0\SistemaEntra21.dll
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\AtividadeGrupo\SistemaEntra21\SistemaEntra21\bin\Debug\net6.0\SistemaEntra21.pdb
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\AtividadeGrupo\SistemaEntra21\SistemaEntra21\obj\Debug\net6.0\SistemaEntra21.csproj.AssemblyReference.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\AtividadeGrupo\SistemaEntra21\SistemaEntra21\obj\Debug\net6.0\SistemaEntra21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\AtividadeGrupo\SistemaEntra21\SistemaEntra21\obj\Debug\net6.0\SistemaEntra21.AssemblyInfoInputs.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\AtividadeGrupo\SistemaEntra21\SistemaEntra21\obj\Debug\net6.0\SistemaEntra21.AssemblyInfo.cs
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\AtividadeGrupo\SistemaEntra21\SistemaEntra21\obj\Debug\net6.0\SistemaEntra21.csproj.CoreCompileInputs.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\AtividadeGrupo\SistemaEntra21\SistemaEntra21\obj\Debug\net6.0\SistemaEntra21.dll
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\AtividadeGrupo\SistemaEntra21\SistemaEntra21\obj\Debug\net6.0\refint\SistemaEntra21.dll
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\AtividadeGrupo\SistemaEntra21\SistemaEntra21\obj\Debug\net6.0\SistemaEntra21.pdb
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\AtividadeGrupo\SistemaEntra21\SistemaEntra21\obj\Debug\net6.0\SistemaEntra21.genruntimeconfig.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\AtividadeGrupo\SistemaEntra21\SistemaEntra21\obj\Debug\net6.0\ref\SistemaEntra21.dll
